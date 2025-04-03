@@ -1,3 +1,3 @@
-module LetsGo
+module TodoInGoLang
 
 go 1.24
